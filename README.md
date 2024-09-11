@@ -8,7 +8,7 @@ This markdown extension adds `autodoc` style support, for use with MkDocs.
 
 ## Usage
 
-#### 1. Include the extension in you `mkdocs.yml` config file:
+#### 1. Include the extension in your `mkdocs.yml` config file:
 
 ```yaml
 [...]
