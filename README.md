@@ -49,6 +49,10 @@ extra_css:
 Then add a `css/custom.css` file to your documentation.
 
 ```css
+div.autodoc > .autodoc-signature {
+  font-size: x-large;
+}
+
 div.autodoc-docstring {
   padding-left: 20px;
   margin-bottom: 30px;
